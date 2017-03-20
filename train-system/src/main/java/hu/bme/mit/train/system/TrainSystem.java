@@ -31,8 +31,8 @@ public class TrainSystem implements Runnable {
 		try {
 			Thread.sleep(5000);
 		} catch (InterruptedException e) {
-			// TODO Auto-generated catch block
 			e.printStackTrace();
+			System.out.println("System failure occured, at the timer system.");
 		}
 		
 	}
