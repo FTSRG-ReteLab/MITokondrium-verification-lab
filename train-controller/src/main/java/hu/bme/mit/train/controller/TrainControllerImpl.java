@@ -1,7 +1,5 @@
 package hu.bme.mit.train.controller;
 
-import java.util.Timer;
-
 import hu.bme.mit.train.interfaces.TrainController;
 
 public class TrainControllerImpl implements TrainController {
